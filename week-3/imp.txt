@@ -1,0 +1,2 @@
+monogoDB url: 'mongodb+srv://admin:admin1234@cluster0.nqf3ldv.mongodb.net/'
+postgress url: 'postgresql://samimaktar94320:IEzpFS60JUHw@ep-jolly-sky-61623356.us-east-2.aws.neon.tech/test?sslmode=require'
