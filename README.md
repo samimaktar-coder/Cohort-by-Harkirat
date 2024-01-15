@@ -1,1 +1,1 @@
-## All code from Cohort
+## The whole codebase is written by me from Harkirat's Cohort
